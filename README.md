@@ -125,30 +125,6 @@ RecommendationSystem-main/
 
 ---
 
-## ▶️ How To Run
-
-추천 실행을 위한 권장 실행 순서:
-
-### 1. Dataset 준비
-`dataset/` 폴더 내 MovieLens 파일 확인
-
-### 2. Crawling 수행 (선택)
-```bash
-Preprocessing/crawling/
-```
-
-### 3. Preprocessing 수행
-```bash
-Preprocessing/preprocess/
-```
-
-### 4. 추천 모델 실행
-```bash
-model/
-```
-
----
-
 ## 📌 Key Takeaways
 
 - MovieLens 평점 데이터를 활용한 추천 시스템 구현 경험
